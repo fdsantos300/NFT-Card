@@ -25,7 +25,7 @@ hr {
 
 span {
   padding-right: 8px;
-  vertical-align:text-bottom;
+  vertical-align: inherit;
 }
 
 .card {
