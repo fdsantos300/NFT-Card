@@ -24,7 +24,7 @@ Basic challenge to improve CSS and Bootstrap knowledge.
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://www.frontendmentor.io/solutions/nft-card-component-GtBY4E3Ns
 - Live Site URL: https://fdsantos300.github.io/NFT-Card/
 
 
