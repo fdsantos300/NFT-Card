@@ -19,13 +19,13 @@ Basic challenge to improve CSS and Bootstrap knowledge.
 
 ### Screenshot
 
-![](images/desktop-desing.jpg)
+![](images/web-desing.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:
+- Live Site URL: https://fdsantos300.github.io/NFT-Card/
 
 
 ### Built with
