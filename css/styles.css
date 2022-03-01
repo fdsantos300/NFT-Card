@@ -8,7 +8,7 @@ body {
   font-family: 'Outfit', sans-serif;
 }
 
-h5 {
+h1 {
   color: #ffffff;
 }
 
@@ -23,18 +23,21 @@ hr {
   color: #8bacda;
 }
 
-span {
-  padding-right: 8px;
-  
+a {
+  text-decoration: none;
+}
 
+span {
+  vertical-align: text-bottom;
 }
 
 .card {
   background-color: #14253d;
   border-radius: 20px;
-  max-width: 375px;
+  max-width: 350px;
   padding: 23px;
   padding-bottom: 18px;
+  margin: auto;
 }
 
 /*------ Image Secction------*/
@@ -68,12 +71,13 @@ background-color: #00fff77a;
   opacity: 1;
 }
 
-.icon{
+.view-icon {
 position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 text-align: center;
+
 }
 
 
@@ -94,6 +98,7 @@ text-align: center;
 .card-title:hover{
   cursor: pointer;
   color: #00fff7;
+
 }
 
 .card-text {
@@ -107,7 +112,10 @@ font-weight: 200;
   font-weight: 600;
   font-size: 16px;
   margin-bottom: 6px;
+}
 
+.icon-ethereum {
+  padding-right: 5px;
 }
 
 .timer {
@@ -118,23 +126,27 @@ font-weight: 200;
   margin-bottom: 6px;
 }
 
+.icon-clock{
+  padding-right: 3px;
+}
+
 /*------ Author Secction------*/
 
-.creator-name{
+.Jules-Wyvern{
   color: White;
 }
 
-.creator-name:hover{
+.Jules-Wyvern:hover{
   cursor: pointer;
   color: #00fff7;
 }
 
-.avatar-img {
+.Jules-img {
   max-width: 35px;
   max-height: 35px;
   vertical-align: middle;
   border-radius: 100%;
   border: solid;
   border-color: White;
-  margin-right: 18px;
+  margin-right: 15px;
 }
